@@ -32,6 +32,8 @@ class MainActivity : AppCompatActivity() {
 
             var kq = sothu1 / sothu2
             ketqua.text = kq.toString()
+
+//comments
         }
     }
 }
